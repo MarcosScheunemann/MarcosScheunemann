@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Marcos.
 
-- 🌱 I’m currently learning Python
-
 
 <div align="center">
   <a href="https://github.com/MarcosScheunemann">
