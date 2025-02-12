@@ -32,6 +32,9 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
   <img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://wakatime.com/@e5af6433-7f05-4ad0-8b38-c2b8ec34e08d">
+    <img src="https://wakatime.com/badge/user/e5af6433-7f05-4ad0-8b38-c2b8ec34e08d.svg" alt="Tempo total codificado">
+  </a>
 </div>
 
 ---
@@ -47,9 +50,6 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
   </a>
   <a href="https://www.linkedin.com/in/marcos-vergueiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wakatime.com/@e5af6433-7f05-4ad0-8b38-c2b8ec34e08d">
-    <img src="https://wakatime.com/badge/user/e5af6433-7f05-4ad0-8b38-c2b8ec34e08d.svg" alt="Tempo total codificado">
   </a>
 </div>
 
