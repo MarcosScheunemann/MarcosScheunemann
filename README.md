@@ -9,9 +9,7 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-vergueiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosScheunemann&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/MarcosScheunemann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosScheunemann&count_private=true&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosScheunemann&count_private=true&layout=compact&theme=dracula&exclude_repo=Caminhada"/>
   </a>
   <br>
   <a href="https://wakatime.com/@MarcosScheunemann">
