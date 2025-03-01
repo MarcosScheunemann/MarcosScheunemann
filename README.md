@@ -2,6 +2,13 @@
 <a href="https://www.linkedin.com/in/marcos-vergueiro">  
   <img src="https://wakatime.com/badge/user/e5af6433-7f05-4ad0-8b38-c2b8ec34e08d.svg" alt="Tempo total codificado">
 </a>
+<h3 align="center"<p>
+Seja bem-vindo visitante! 👋
+<br>
+<p align="center">número:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/MarcosScheunemann/count.svg"/></p>
+</h3>
+
 
 Sou um desenvolvedor especializado em soluções inovadoras para aplicações web e back-end, com experiência em tecnologias modernas e metodologias ágeis. Tenho um compromisso contínuo com a excelência técnica e a entrega de software de alta qualidade.
 
