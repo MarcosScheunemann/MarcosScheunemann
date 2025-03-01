@@ -83,3 +83,6 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
 ---
 
 Obrigado por visitar meu perfil! 😊🚀
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MarcosScheunemann&&style=flat-square" align="center" />
+</div>
