@@ -38,12 +38,11 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
   </a>
   <br>
   <a href="https://wakatime.com/@MarcosScheunemann">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosScheunemann&theme=shadow_blue&border_radius=4.1&card_width=490&starting_year=2020&mode=weekly" alt="GitHub Streak" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosScheunemann&theme=dracula&utcOffset=-3"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosScheunemann&theme=shadow_blue&border_radius=4.1&card_width=490&starting_year=2020&mode=weekly" alt="GitHub Streak" />
     <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcosScheunemann"/>
   </a>
 </div>
-
----
 
 ### 🚀 Tecnologias e Ferramentas
 
@@ -61,7 +60,7 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
 
 ### 🏆 GitHub Trophies
   <a href="https://www.linkedin.com/in/marcos-vergueiro">  
-    <img src="https://github-profile-trophy.vercel.app/?username=MarcosScheunemann&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=MarcosScheunemann&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4&rank=-C,-?">
   </a>
 
 ---
