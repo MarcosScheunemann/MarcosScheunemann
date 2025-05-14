@@ -74,13 +74,6 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
 
 ---
 
-### 🔝 Top Contributed Repo
-<a href="https://www.linkedin.com/in/marcos-vergueiro">  
-  <img src="https://github-contributor-stats.vercel.app/api?username=MarcosScheunemann&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
-</a>
-
----
-
 Obrigado por visitar meu perfil! 😊🚀
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MarcosScheunemann&&style=flat-square" align="center" />
