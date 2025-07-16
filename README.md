@@ -5,8 +5,8 @@
 <h3 align="center"<p>
 Seja bem-vindo visitante! 👋
 <br>
-<p align="center">número:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/MarcosScheunemann/count.svg"/></p>
+<!-- <p align="center">número:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/MarcosScheunemann/count.svg"/></p> -->
 </h3>
 
 
