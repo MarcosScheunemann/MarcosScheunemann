@@ -35,15 +35,10 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcos-vergueiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosScheunemann&count_private=true&show_icons=true&theme=shadow_blue&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosScheunemann&count_private=true&layout=compact&theme=shadow_blue&exclude_repo=Caminhada"/>
-  </a>
   <br>
   <a href="https://wakatime.com/@MarcosScheunemann">
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosScheunemann&theme=dracula&utcOffset=-3"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosScheunemann&theme=shadow_blue&border_radius=4.1&card_width=490&starting_year=2020&mode=weekly" alt="GitHub Streak" />
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcosScheunemann"/>
   </a>
 </div>
 
