@@ -5,8 +5,6 @@
 <h3 align="center"<p>
 Seja bem-vindo visitante! 👋
 <br>
-<!-- <p align="center">número:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/MarcosScheunemann/count.svg"/></p> -->
 </h3>
 
 
@@ -53,15 +51,6 @@ Sou um desenvolvedor especializado em soluções inovadoras para aplicações we
   <img align="center" alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-
----
-
-### 🏆 GitHub Trophies
-  <a href="https://www.linkedin.com/in/marcos-vergueiro">  
-    <img src="https://github-profile-trophy.vercel.app/?username=MarcosScheunemann&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4&rank=-C,-?">
-  </a>
-
----
 
 ### 🏆 Sobre Mim
 
